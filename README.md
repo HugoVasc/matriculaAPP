@@ -2,7 +2,7 @@
 
 ## Versão Mobile do Matricula Web
 
-```
+```mermaid
 gitGraph:
 options
 {
