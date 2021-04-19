@@ -1,7 +1,5 @@
 {
-  "name": "matriculaApp",
-  "integrations": {
-    "capacitor": {}
-  },
+  "name": "matriculaAPP",
+  "integrations": {},
   "type": "angular"
 }
